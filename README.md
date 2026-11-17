@@ -20,7 +20,6 @@ Fixes: duplicates - same '_id' submitted twice? Gone
 |---|---|---|---|---|
 1 | "Kampala " | 5 | "YES " | 2024-01-15
 2 | kampala | 5 | yes | 2024/01/15
-1 |  Kampala| 5  | "YES" | 2024-01-15 (duplicate)
 3 | WAKISO |   | no | bad-date
 
   ** After (Clean): **
@@ -37,7 +36,7 @@ Fixes: duplicates - same '_id' submitted twice? Gone
 3. Run: 'python clean_kobo_export.py'
 4. Get 'cleaned_output.xlsx'
 
-   ## Ican clean your data for you
+## I can clean your data for you
    I clean kobo / ODK / Excel SPSS exports for NGOs, health surveys, and research teams.
    Hire me on Upwork: Shamim Alituha - Software Engineer | Python $ PHP
 
