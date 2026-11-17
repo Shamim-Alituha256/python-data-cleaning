@@ -28,7 +28,7 @@ Fixes: duplicates - same '_id' submitted twice? Gone
 |---|---|---|---|---|
 1 | Kampala | 5 | YES | 2024-01-15
 2 | kampala | 5 | yes | 2024-01-15
-3 | WAKISO | no | (blank column removed $ invalid date)
+3 | WAKISO  |   | no  | (blank column removed & invalid date)
 
 ## How to Run it: 
 1. pip install pandas openpyxl - Installs the pandas
@@ -38,6 +38,6 @@ Fixes: duplicates - same '_id' submitted twice? Gone
 
 ## I can clean your data for you
    I clean kobo / ODK / Excel SPSS exports for NGOs, health surveys, and research teams.
-   Hire me on Upwork: Shamim Alituha - Software Engineer | Python $ PHP
+   Hire me on Upwork: Shamim Alituha - Software Engineer | Python & PHP
 
 By Shamim | Ex-UBOS MoH
