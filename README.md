@@ -25,11 +25,10 @@ Fixes: duplicates - same '_id' submitted twice? Gone
 
   ** After (Clean): **
 | _id | district | household_size | has_mosquito_net | survey_date |
-
+|---|---|---|---|---|
 1 | Kampala | 5 | YES | 2024-01-15
 2 | kampala | 5 | yes | 2024-01-15
-## 1 | Kampala | 5 | YES| 2024-01-15 (duplicate removed) ##
-
+1 | Kampala | 5 | YES| 2024-01-15 (duplicate removed)
 3 | WAKISO |   | no | (blank removed invalid date)
 
 ## How to Run it: 
